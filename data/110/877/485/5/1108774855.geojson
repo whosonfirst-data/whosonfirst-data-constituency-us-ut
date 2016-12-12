@@ -9,7 +9,7 @@
     "geom:bbox":"-114.05288,36.999975,-113.31557,37.61829",
     "geom:latitude":37.294226,
     "geom:longitude":-113.742582,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":3623751484.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 29",
     "uscensus:sldust":"029",
     "uscensus:statefp":"49",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688567
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488398,
     "wof:geomhash":"556547a5304b0e53f77cca723bb7ebb8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688567
+        }
+    ],
     "wof:id":1108774855,
     "wof:lastmodified":1481488398,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688567,
     "wof:repo":"whosonfirst-data-constituency-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],

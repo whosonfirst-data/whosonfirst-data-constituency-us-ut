@@ -9,7 +9,7 @@
     "geom:bbox":"-111.91145,40.13812,-111.646699,40.361062",
     "geom:latitude":40.250544,
     "geom:longitude":-111.780158,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":42019907.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 61",
     "uscensus:sldlst":"061",
     "uscensus:statefp":"49",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688567
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488380,
     "wof:geomhash":"30f081ed1769f105e6b001d807d6ca95",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688567
+        }
+    ],
     "wof:id":1108774759,
     "wof:lastmodified":1481488380,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688567,
     "wof:repo":"whosonfirst-data-constituency-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],

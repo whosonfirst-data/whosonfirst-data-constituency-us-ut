@@ -9,7 +9,7 @@
     "geom:bbox":"-111.92421,40.759225,-111.73948,40.85297",
     "geom:latitude":40.805293,
     "geom:longitude":-111.841754,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":80478681.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 24",
     "uscensus:sldlst":"024",
     "uscensus:statefp":"49",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688567
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488372,
     "wof:geomhash":"79f84e90db506fc69616871f64f0f2ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688567
+        }
+    ],
     "wof:id":1108774675,
     "wof:lastmodified":1481488372,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688567,
     "wof:repo":"whosonfirst-data-constituency-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],

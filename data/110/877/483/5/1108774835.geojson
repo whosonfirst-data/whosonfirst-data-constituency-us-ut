@@ -9,7 +9,7 @@
     "geom:bbox":"-112.49351,41.076888,-111.97861,41.33688",
     "geom:latitude":41.218483,
     "geom:longitude":-112.193253,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":450756351.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 20",
     "uscensus:sldust":"020",
     "uscensus:statefp":"49",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688567
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488394,
     "wof:geomhash":"66089b70841e3b7a717d7c618616a6b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688567
+        }
+    ],
     "wof:id":1108774835,
     "wof:lastmodified":1481488394,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688567,
     "wof:repo":"whosonfirst-data-constituency-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],

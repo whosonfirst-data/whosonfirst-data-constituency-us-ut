@@ -9,7 +9,7 @@
     "geom:bbox":"-113.57607,37.000003,-113.41299,37.22728",
     "geom:latitude":37.129801,
     "geom:longitude":-113.502283,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":162013824.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 62",
     "uscensus:sldlst":"062",
     "uscensus:statefp":"49",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688567
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488381,
     "wof:geomhash":"2896bc470a1079912f7e9fc21232642a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688567
+        }
+    ],
     "wof:id":1108774761,
     "wof:lastmodified":1481488381,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688567,
     "wof:repo":"whosonfirst-data-constituency-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
